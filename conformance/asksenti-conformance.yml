@@ -1,0 +1,25 @@
+generated: '2026-07-18'
+method: searched
+source: https://sentisum.com/security
+docs: https://trust.sentisum.com/
+notes: >-
+  SentiSum is a hosted CX intelligence SaaS with no public developer API or
+  OpenAPI. Standards below reflect published organizational security/privacy
+  compliance posture (searched from the security page and Akitra-powered trust
+  center), not API protocol conformance.
+standards:
+- id: soc2-type2
+  conforms: true
+  evidence: SOC 2 Type 2 attestation with reports for 2023, 2024, 2025 (trust.sentisum.com)
+- id: gdpr
+  conforms: true
+  evidence: GDPR compliance stated; Data Processing Agreement available on request
+- id: iso-27001
+  conforms: false
+  evidence: not published
+- id: hipaa
+  conforms: false
+  evidence: not published
+- id: pci-dss
+  conforms: false
+  evidence: not published

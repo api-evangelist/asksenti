@@ -1,0 +1,13 @@
+generated: '2026-07-18'
+method: searched
+probe: true
+source: https://trust.sentisum.com/
+url: https://trust.sentisum.com/
+certifications:
+- SOC 2
+evidence:
+- source: https://trust.sentisum.com/
+  keywords:
+  - soc 2
+  - trust center
+  - compliance certification

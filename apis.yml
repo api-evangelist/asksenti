@@ -1,8 +1,30 @@
 aid: asksenti
 name: AskSenti
-description: AskSenti is a company surfaced as a portfolio company of 500-global and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  AskSenti (SentiSum) is an AI-native customer experience (CX) intelligence
+  platform that reads every customer conversation across support, survey, and
+  social channels through its "Kyo" AI engine, identifies what is breaking and
+  why, quantifies the dollar impact, and flags churn before it costs revenue.
+  It ships three agents — an Early Warning Agent for real-time anomaly
+  detection, an Insights Agent for root-cause analysis and dollar-impact
+  quantification, and a Quality Agent for conversation scoring and CSAT
+  prediction — over Unified Signals that consolidate the voice of the customer.
+  Delivered as hosted SaaS with 100+ inbound integrations (Zendesk, Freshdesk,
+  Intercom, Salesforce, and more); it is SOC 2 Type 2 and GDPR compliant.
+  Backed by 500 Global. No public developer API is published today.
 url: https://raw.githubusercontent.com/api-evangelist/asksenti/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.prod.website-files.com/5ec6a200fe35e26d96b4cb04/68f0d75f98b7319de2d6b373_og-sentisum.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -11,9 +33,17 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
+- CX Intelligence
+- Customer Experience
+- Voice of Customer
+- Sentiment Analysis
+- Customer Support
+- Analytics
+- Artificial Intelligence
+- SaaS
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -21,5 +51,36 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: TrustCenter
+  url: security/asksenti-trust-center.yml
+- type: DomainSecurity
+  url: security/asksenti-domain-security.yml
+- type: Compliance
+  url: https://trust.sentisum.com/
+- type: Conformance
+  url: conformance/asksenti-conformance.yml
+- type: ChangeLog
+  url: changelog/asksenti-changelog.yml
+- type: LLMsTxt
+  url: llms/asksenti-llms.txt
+- type: Security
+  url: https://sentisum.com/security
+- type: Blog
+  url: https://sentisum.com/resources/collections
+- type: Pricing
+  url: https://sentisum.com/pricing
+- type: SignUp
+  url: https://sentisum.com/free-trial
+- type: Support
+  url: https://sentisum.com/about/contact
+- type: PrivacyPolicy
+  url: https://sentisum.com/about/privacy-policy
+- type: TermsOfService
+  url: https://sentisum.com/about/privacy-policy
 - type: Website
   url: https://sentisum.com
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

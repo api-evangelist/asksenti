@@ -1,0 +1,54 @@
+generated: '2026-07-18'
+method: searched
+source: https://changelog.sentisum.com/
+scheme: monthly-dated
+date_format: YYYY-MM-DD
+current: '2026-06-20'
+notes: >-
+  SentiSum publishes a public product changelog of monthly "Feature Updates"
+  releases. The platform is a hosted CX intelligence SaaS with no public developer
+  API, so entries describe product/UI capabilities rather than API contract changes.
+entries:
+- version: '2026-06-20'
+  date: '2026-06-20'
+  title: Feature Updates (June 2026)
+  breaking: false
+  highlights:
+  - Numeric filter operators for metadata fields
+  - Redesigned Discover hierarchy table
+- version: '2026-05-20'
+  date: '2026-05-20'
+  title: Feature Updates (May 2026)
+  breaking: false
+  highlights:
+  - Two-tab layout on the Feedback page
+  - Fixed dashboard scrolling with multiple global filters
+- version: '2026-04-20'
+  date: '2026-04-20'
+  title: Feature Updates (April 2026)
+  breaking: false
+  highlights:
+  - Custom alerts
+  - Dashboard access controls
+  - CSV ticket ID filtering and clickable ticket IDs
+- version: '2026-03-20'
+  date: '2026-03-20'
+  title: Feature Updates (March 2026)
+  breaking: false
+  highlights:
+  - Sprout Social integration
+  - Redesigned Dig In pop-up
+  - Removed misleading change indicators
+- version: '2026-02-20'
+  date: '2026-02-20'
+  title: Feature Updates (February 2026)
+  breaking: false
+  highlights:
+  - Dashboard-level global filters across all cards
+- version: '2025-11-07'
+  date: '2025-11-07'
+  title: Feature Updates (November 2025)
+  breaking: false
+  highlights:
+  - Pin Kyo answers to dashboards
+  - Improved answer quality, reliability, and transparency

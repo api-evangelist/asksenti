@@ -1,0 +1,25 @@
+# SentiSum (AskSenti)
+
+> AI-native CX (customer experience) intelligence software. SentiSum reads every customer conversation across support, survey, and social channels via its "Kyo" AI engine, identifies what is breaking and why, quantifies the dollar impact, and flags churn — surfaced through Early Warning, Insights, and Quality agents. Hosted SaaS with 100+ inbound integrations; no public developer API.
+
+## Product
+- [Early Warning Agent](https://sentisum.com/product/early-warning-agent): Real-time anomaly detection on customer conversations
+- [Insights Agent](https://sentisum.com/product/insights-agent): Root-cause analysis and dollar-impact quantification
+- [Quality Agent](https://sentisum.com/product/quality-agent): Conversation scoring and CSAT prediction
+- [Kyo AI Engine](https://sentisum.com/product/kyo-ai-engine): Underlying AI engine powering the agents
+- [Unified Signals](https://sentisum.com/product/unified-signals): Unified voice-of-customer across channels
+
+## Docs & Resources
+- [Blog / Collections](https://sentisum.com/resources/collections): Articles and guides
+- [Changelog](https://changelog.sentisum.com/): Monthly product release notes
+- [Pricing](https://sentisum.com/pricing): Growth, Core Insights, and Customer Second Brain tiers
+- [Free Trial](https://sentisum.com/free-trial): Two-week trial, no credit card
+- [Contact](https://sentisum.com/about/contact): Support and sales contact
+
+## Security & Compliance
+- [Security](https://sentisum.com/security): SOC 2 Type 2, GDPR, annual penetration testing
+- [Trust Center](https://trust.sentisum.com/): SOC 2 Type 2 reports (2023-2025), policy library (Akitra-powered)
+- [Privacy Policy & ToS](https://sentisum.com/about/privacy-policy): Privacy policy and terms
+
+## Integrations
+- Inbound connectors: Zendesk, Freshdesk, Intercom, Dixa, Gorgias, SurveyMonkey, Salesforce, Trustpilot, Sprout Social, Snowflake, Microsoft Fabric, and 100+ systems

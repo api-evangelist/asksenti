@@ -1,0 +1,14 @@
+{
+  "repo": "asksenti",
+  "feeds": [
+    {
+      "source": "https://sentisum.com/security",
+      "feed_url": "https://sentisum.com/security",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-07-20T13:31:34Z"
+}
