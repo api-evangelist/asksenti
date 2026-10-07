@@ -1,0 +1,49 @@
+# Pricing transcribed from the provider's own page — see provenance. Numbers are quoted, not derived.
+generated: '2026-10-07'
+method: searched
+source: https://www.sentisum.com/pricing
+sources:
+- https://www.sentisum.com/pricing
+- https://sentisum.com/pricing
+provenance:
+  tool: all/0-working/economics/harvest_pricing.py
+  run: 20261007T104522
+  grounding: every price_text was found verbatim in the fetched page text
+audience: business-product
+pricing_basis: tiered-subscription
+delivery:
+  delivery: managed
+  method: page
+  read: '2026-10-07'
+published: true
+note: Enterprise CX intelligence platform; single starting price of $100,000/year with add-on agents priced
+  separately (no numbers given). API access included in core platform.
+plan_count: 6
+currency: USD
+plans:
+- name: Core platform — The CX Intelligence Layer
+  price_text: From $100,000 / year
+  price: 100000
+  currency: USD
+  period: year
+  unit: annual partnership, volume-banded
+  included_quota: Every conversation read across channels, custom taxonomy, Kyo, Insights and Early Warning
+    agents, unlimited users, all integrations, dedicated customer success
+  overage: No per-ticket metering; volume agreed in annual bands, next band agreed at renewal or via volume
+    pack mid-term
+- name: Quality Agent (add-on)
+  price_text: Priced separately, added when you’re ready.
+  period: none
+- name: Automation Agent (add-on)
+  price_text: Priced separately, added when you’re ready.
+  period: none
+- name: MCP Server (add-on)
+  price_text: Priced separately, added when you’re ready.
+  period: none
+- name: Your own agents
+  price_text: Scoped and priced per agent.
+  period: none
+- name: The audit
+  price_text: STEP 01 · FREE · DAYS
+  period: one-time
+  included_quota: Scoped free evaluation on a slice of your conversations
